@@ -13,7 +13,7 @@ namespace Hotel_Management.DAL
     public class HotelManagementDAL
     {
         public static string ConnectionString = 
-            "Data Source=(local);Initial Catalog=Hotel Management;Integrated Security=True;";
+            "Data Source=.;Initial Catalog=Hotel Management;Integrated Security=True;";
 
         public static int Login(string User, string Pass)
         {

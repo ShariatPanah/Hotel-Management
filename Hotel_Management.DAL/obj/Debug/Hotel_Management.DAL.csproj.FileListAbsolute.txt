@@ -25,3 +25,14 @@ K:\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Hotel_Management.BLL.pdb
 K:\HotelManagement\Hotel\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.csprojResolveAssemblyReference.cache
 K:\HotelManagement\Hotel\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.dll
 K:\HotelManagement\Hotel\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\bin\Debug\Hotel_Management.DAL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\bin\Debug\Hotel_Management.DAL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\bin\Debug\Converting_Date.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\bin\Debug\Hotel_Management.BLL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\bin\Debug\Converting_Date.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\bin\Debug\Hotel_Management.BLL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.csproj.AssemblyReference.cache
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.csproj.CoreCompileInputs.cache
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.csproj.CopyComplete
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.pdb

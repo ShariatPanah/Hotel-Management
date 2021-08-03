@@ -64,9 +64,9 @@ namespace HotelManagement
         private void timer1_Tick(object sender, EventArgs e)
         {
             PersianCalendar P = new PersianCalendar();
-            this.label2.Text = string.Format("{0:HH:mm:ss}", DateTime.Now);
+            this.label2.Text = string.Format("ساعت: {0:HH:mm:ss}", DateTime.Now);
 
-            this.label3.Text = Converting.ConvertDay() + " " + P.GetDayOfMonth(DateTime.Now) + " " + Converting.ConvertMonth() + " " + P.GetYear(DateTime.Now);
+            this.label3.Text = "تاریخ امروز: " + Converting.ConvertDay() + " " + P.GetDayOfMonth(DateTime.Now) + " " + Converting.ConvertMonth() + " " + P.GetYear(DateTime.Now);
         }
 
         private void btnUsers_Click(object sender, EventArgs e)

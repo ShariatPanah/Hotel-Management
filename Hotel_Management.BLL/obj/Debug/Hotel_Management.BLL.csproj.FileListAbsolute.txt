@@ -8,3 +8,9 @@ K:\HotelManagement\Hotel\Hotel_Management.BLL\bin\Debug\Hotel_Management.BLL.pdb
 K:\HotelManagement\Hotel\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.csprojResolveAssemblyReference.cache
 K:\HotelManagement\Hotel\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.dll
 K:\HotelManagement\Hotel\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.BLL\bin\Debug\Hotel_Management.BLL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.BLL\bin\Debug\Hotel_Management.BLL.pdb
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.csproj.AssemblyReference.cache
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.csproj.CoreCompileInputs.cache
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.dll
+D:\Sirwan_Files\Programming Class\C# Projects\My Projects\HotelManagement\Hotel Management\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.pdb
