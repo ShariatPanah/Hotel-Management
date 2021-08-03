@@ -1,0 +1,10 @@
+c:\users\np\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.BLL\bin\Debug\Hotel_Management.BLL.dll
+c:\users\np\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.BLL\bin\Debug\Hotel_Management.BLL.pdb
+c:\users\np\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.csprojResolveAssemblyReference.cache
+c:\users\np\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.dll
+c:\users\np\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.pdb
+K:\HotelManagement\Hotel\Hotel_Management.BLL\bin\Debug\Hotel_Management.BLL.dll
+K:\HotelManagement\Hotel\Hotel_Management.BLL\bin\Debug\Hotel_Management.BLL.pdb
+K:\HotelManagement\Hotel\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.csprojResolveAssemblyReference.cache
+K:\HotelManagement\Hotel\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.dll
+K:\HotelManagement\Hotel\Hotel_Management.BLL\obj\Debug\Hotel_Management.BLL.pdb

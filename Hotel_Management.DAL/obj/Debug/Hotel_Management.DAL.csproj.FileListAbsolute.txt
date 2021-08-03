@@ -1,0 +1,27 @@
+C:\Users\NP\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.DAL\bin\Debug\Hotel_Management.DAL.dll
+C:\Users\NP\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.DAL\bin\Debug\Hotel_Management.DAL.pdb
+C:\Users\NP\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.DAL\bin\Debug\Converting_Date.dll
+C:\Users\NP\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.DAL\bin\Debug\Hotel_Management.BLL.dll
+C:\Users\NP\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.DAL\bin\Debug\Converting_Date.pdb
+C:\Users\NP\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.DAL\bin\Debug\Hotel_Management.BLL.pdb
+C:\Users\NP\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.csprojResolveAssemblyReference.cache
+C:\Users\NP\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.dll
+C:\Users\NP\documents\visual studio 2013\Projects\HotelManagement\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.pdb
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Hotel_Management.DAL.dll
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Hotel_Management.DAL.pdb
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Converting_Date.dll
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Hotel_Management.BLL.dll
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Converting_Date.pdb
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Hotel_Management.BLL.pdb
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\HotelManagement\Hotel\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.csprojResolveAssemblyReference.cache
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\HotelManagement\Hotel\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.dll
+C:\Users\NP\Documents\Visual Studio 2013\Customers Program\HotelManagement\Hotel\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.pdb
+K:\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Hotel_Management.DAL.dll
+K:\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Hotel_Management.DAL.pdb
+K:\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Converting_Date.dll
+K:\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Hotel_Management.BLL.dll
+K:\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Converting_Date.pdb
+K:\HotelManagement\Hotel\Hotel_Management.DAL\bin\Debug\Hotel_Management.BLL.pdb
+K:\HotelManagement\Hotel\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.csprojResolveAssemblyReference.cache
+K:\HotelManagement\Hotel\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.dll
+K:\HotelManagement\Hotel\Hotel_Management.DAL\obj\Debug\Hotel_Management.DAL.pdb
